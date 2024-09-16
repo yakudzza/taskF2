@@ -1,0 +1,4 @@
+spring:
+  data:
+    opensearch:
+      uris: http://localhost:9200
